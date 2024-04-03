@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Candal&family=Carrois+Gothic+SC&family=Imbue:opsz,wght@10..100,100..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lato:wght@300&family=Merriweather&family=Ojuju:wght@200..800&family=Open+Sans:ital,wght@1,300&family=Rethink+Sans:ital@0;1&family=Roboto:ital,wght@1,100&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto", sans-serif;
+}
